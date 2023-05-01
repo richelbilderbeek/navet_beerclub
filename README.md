@@ -9,16 +9,16 @@ The Beer Clubs at the Biomedical Center, Uppsala, Sweden:
 
 ## Comparison chart
 
-Parameter |ICM Beer Club     |Navet Beer Club
-----------|------------------|---------------
-Best for  |:partying_face:   |:monocle_face::beer:
-When      |1-but-last Friday |Last Friday
-Location  |?The place        |Navet, 1st floor
-Beer      |Dennis'           |?Dennis'
-Music     |DJ                |A speaker at moderate volume
-Dancing   |Yes               |No
-Ninteno   |?No               |Yes
-Email list|?ICM only         |Subscribe at [https://beerclub.nu/](https://beerclub.nu/)
+Parameter |ICM Beer Club         |Navet Beer Club
+----------|----------------------|---------------
+Best for  |:partying_face::beer: |:monocle_face::beer:
+When      |1-but-last Friday     |Last Friday
+Location  |?The place            |Navet, 1st floor
+Beer      |Dennis'               |?Dennis'
+Music     |DJ                    |A speaker at moderate volume
+Dancing   |Yes                   |No
+Ninteno   |?No                   |Yes
+Email list|?ICM only             |Subscribe at [https://beerclub.nu/](https://beerclub.nu/)
 
 ## Schedule
 
