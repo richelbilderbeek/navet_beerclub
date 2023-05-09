@@ -3,7 +3,7 @@
 The Beer Clubs at the Biomedical Center, Uppsala, Sweden:
 
  * ICM Beer Club
-    * One-but-last Friday of the month, or one week earlier due to holidays
+    * No planned schedule
  * [Navet Beer Club](https://beerclub.nu/)
     * Last Friday of the month, or one week earlier due to holidays
 
@@ -24,23 +24,24 @@ Email list|?ICM only             |Subscribe at [https://beerclub.nu/](https://be
 
 Date                     |What
 -------------------------|----------------
-?Friday 2023-05-21 16:00 |?ICM Beer Club
+?Friday 2023-05-21 16:00 |?ICM Beer Club [1]
  Friday 2023-05-26 16:00 | Navet Beer Club
-?Friday 2023-06-09 16:00 |?ICM Beer Club (?or week later, instead of NBC)
- Friday 2023-06-16 16:00 | Navet Beer Club
- Friday 2023-06-23       | Midsommarafton, no Beer Clubs (?ICM BC)
-?Friday 2023-07-21 16:00 |?ICM Beer Club (?or week later, instead of NBC)
- Friday 2023-07-28 16:00 | Navet Beer Club
-?Friday 2023-08-18 16:00 |?ICM Beer Club (?or week later, instead of NBC)
- Friday 2023-08-25 16:00 | Navet Beer Club
-?Friday 2023-09-22 16:00 |?ICM Beer Club
+?Friday 2023-06-09 16:00 |?ICM Beer Club  [1]
+ Friday 2023-06-16 16:00 | Navet Beer Club  [2]
+ Friday 2023-06-23       | Midsommarafton, no Beer Clubs
+ Friday 2023-07-28 16:00 | Navet Beer Club  [2]
+ Friday 2023-08-25 16:00 | Navet Beer Club  [2]
+?Friday 2023-09-22 16:00 |?ICM Beer Club [1]
  Friday 2023-09-29 16:00 | Navet Beer Club
-?Friday 2023-10-20 16:00 |?ICM Beer Club
+?Friday 2023-10-20 16:00 |?ICM Beer Club [1]
  Friday 2023-10-27 16:00 | Navet Beer Club
-?Friday 2023-11-17 16:00 |?ICM Beer Club
+?Friday 2023-11-17 16:00 |?ICM Beer Club [1]
  Friday 2023-11-24 16:00 | Navet Beer Club
-?Friday 2023-12-15 16:00 |?ICM Beer Club
+?Friday 2023-12-15 16:00 |?ICM Beer Club [1]
  Friday 2023-12-22 16:00 | Navet Beer Club
+
+ * [1] The ICM Beer Club is planned ahead less, so most dates are a best estimate
+ * [2] The ICM Beer Club does not have events in the Summer holidays
 
 ## FAQ
 
