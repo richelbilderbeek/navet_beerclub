@@ -14,6 +14,7 @@ Parameter |ICM Beer Club         |Navet Beer Club
 Best for  |:partying_face::beer: |:monocle_face::beer:
 When      |Irregular             |Last Friday
 Location  |ICM lunch room, C8:1  |Navet, 1st floor
+Time      |17:00 onwards         |16:00 onwards
 Beer      |Dennis'               |?Dennis'
 Music     |DJ                    |A speaker at moderate volume
 Dancing   |Yes                   |No
