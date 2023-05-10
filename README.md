@@ -12,8 +12,8 @@ The Beer Clubs at the Biomedical Center, Uppsala, Sweden:
 Parameter |ICM Beer Club         |Navet Beer Club
 ----------|----------------------|---------------
 Best for  |:partying_face::beer: |:monocle_face::beer:
-When      |1-but-last Friday     |Last Friday
-Location  |?The place            |Navet, 1st floor
+When      |Irregular             |Last Friday
+Location  |ICM lunch room, C8:1  |Navet, 1st floor
 Beer      |Dennis'               |?Dennis'
 Music     |DJ                    |A speaker at moderate volume
 Dancing   |Yes                   |No
