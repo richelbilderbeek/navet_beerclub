@@ -9,12 +9,14 @@ or one week earlier due to holidays.
 
 Date                     |What                          | Status
 -------------------------|------------------------------|--------------------------
- Friday 2023-07-28 16:00 | Navet Beer Club              | Planned
- Friday 2023-08-25 16:00 | Navet Beer Club              | Planned
- Friday 2023-09-29 16:00 | Navet Beer Club              | Planned
- Friday 2023-10-27 16:00 | Navet Beer Club              | Planned
  Friday 2023-11-24 16:00 | Navet Beer Club              | Planned
  Friday 2023-12-22 16:00 | Navet Beer Club              | Planned
+?Friday 2024-01-26 16:00 | Navet Beer Club              | Discussed
+?Friday 2024-02-23 16:00 | Navet Beer Club              | Discussed
+?Friday 2024-03-22 16:00 | Navet Beer Club              | Discussed
+?Friday 2024-04-26 16:00 | Navet Beer Club              | Discussed
+?Friday 2024-05-31 16:00 | Navet Beer Club              | Discussed
+?Friday 2024-06-28 16:00 | Navet Beer Club              | Discussed
 
  * See [past](past.md) for past Beer Clubs
 
