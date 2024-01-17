@@ -9,3 +9,5 @@ Date                     |What                          | Status
  Friday 2023-08-25 16:00 | Navet Beer Club              | Completed
  Friday 2023-09-29 16:00 | Navet Beer Club              | Completed
  Friday 2023-10-27 16:00 | Navet Beer Club              | Cancelled, due to lack of volunteers
+ Friday 2023-11-24 16:00 | Navet Beer Club              | Planned
+ Friday 2023-12-22 16:00 | Navet Beer Club              | Planned
